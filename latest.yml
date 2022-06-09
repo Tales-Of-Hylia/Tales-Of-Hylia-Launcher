@@ -1,8 +1,8 @@
-version: 4.0.0
+version: 5.0.0
 files:
-  - url: Tales-Of-Hylia-Setup-4.0.0.exe
-    sha512: 9opFxVy3HWe60HxJzoI6x8JHnSeOEkLytFBw3H6c0t9xlwewHVZ8CUX/DPWy3qeEMHY3hmO1Hz50DW0Bv2uVhQ==
+  - url: Tales-Of-Hylia-Setup-5.0.0.exe
+    sha512: yRB1uYMiwKTuN49pPI2zdlRtuxbF8r+2nd5DHcIOktOiS3Y5/eRahYAu4bev37X7c6+mMwTakcEeCOO4nGCNQw==
     size: 65493288
-path: Tales-Of-Hylia-Setup-4.0.0.exe
-sha512: 9opFxVy3HWe60HxJzoI6x8JHnSeOEkLytFBw3H6c0t9xlwewHVZ8CUX/DPWy3qeEMHY3hmO1Hz50DW0Bv2uVhQ==
-releaseDate: '2022-06-09T11:04:20.705Z'
+path: Tales-Of-Hylia-Setup-5.0.0.exe
+sha512: yRB1uYMiwKTuN49pPI2zdlRtuxbF8r+2nd5DHcIOktOiS3Y5/eRahYAu4bev37X7c6+mMwTakcEeCOO4nGCNQw==
+releaseDate: '2022-06-09T11:06:41.409Z'
